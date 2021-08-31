@@ -6,7 +6,7 @@ Project Coeus is a DAPP on Internet Computer that tracks learning experience, op
 
 ## Target users
 
-
+People who want to learn
 
 ## Pain Points
 
